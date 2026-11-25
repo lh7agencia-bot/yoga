@@ -1,0 +1,6 @@
+{
+  "name": "Jardim Vinyasa - Yoga, Pilates e Spa",
+  "description": "Jardim Vinyasa - Yoga, Pilates e Spa no Jardim América, Goiânia - GO. Equilíbrio entre mente e corpo em um espaço dedicado ao seu bem-estar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
